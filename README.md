@@ -6,10 +6,7 @@ Este é um projeto simples de **API RESTful** desenvolvido em **C# com ASP.NET C
 
 - ASP.NET Core
 - Entity Framework Core (EF Core)
-- SQLite ou SQL Server
-- Swagger (para documentação)
-- AutoMapper (opcional)
-- LINQ
+- SQL Server
 
 ## 📌 Funcionalidades
 
